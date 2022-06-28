@@ -1,0 +1,109 @@
+
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    height: 700px;
+    
+}
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    margin-bottom: 20px;
+    position: absolute;
+    
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+
+    
+}
+.features-box{
+    text-align: center;
+    padding: 1px;
+padding: 5%;
+}
+.fa-solid{
+     margin-bottom: 20px; 
+}
+p{
+    color: #8f8f8f;
+}
+.icon-lol{
+   color: #e87685;
+}
+.icon-lol:hover{
+color: pink;
+}
+h1{
+    font-family: "Montserrat";
+}
+
+.testimonal-h2{
+font-style: "Montserrat-Bold";
+font-style;
+}
+#testimonials{
+    padding: 7% 20%;
+
+    text-align: center;
+    background-color: #e87685ff;
+    color: #fff;
+}
+.testimonial-img{
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+#press{
+    background-color: #e87685ff;
+    text-align: center;
+    
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+ .row{
+    
+ }
+ .card-header{
+    text-align: center;
+ }
+ .card-body{
+    text-align: center;
+ }
+#pricing{
+    padding: 50px;
+    text-align: center;
+}
+.title-section{
+    width: 800px;
+}
+.title-h1{
+    font-weight: bolder;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+
+    font-weight: bold;
+}
+.nav-item{
+    padding:  0 18px;
+}
+@media (max-width: 850px) {
+
+   
+ .title-things{
+    text-align: center;
+ }
+ .title-image{
+   
+   
+ }
+
+ 
+
+}
